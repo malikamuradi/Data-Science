@@ -3,7 +3,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/6858456915mrrhvxsywvtt#9860a2 
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/otlNOhNqYFo 
 
 Paper title:
 Multilingual BERT-Based Emotion Recognition: A
