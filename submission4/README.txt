@@ -6,11 +6,3 @@ Paper title:
 Multilingual BERT-Based Emotion Recognition: A
 Comparative Study in Urdu and Dari Texts
 
-
-
-Group Number:
-2
-
-Group Members:
-21141064 Basit Hussain
-21241057 Malika Muradi
